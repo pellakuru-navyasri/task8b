@@ -21,7 +21,7 @@ locals {
   redis_password_secret_name = "redis-password"
 
   tags = {
-    Creator ="pellakuru_navyasri@epam.com"
+    Creator = "pellakuru_navyasri@epam.com"
   }
 
   dns_name_label = "navyadns"
