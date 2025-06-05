@@ -1,4 +1,4 @@
-location                         = "southindia"
+location                         = "Central US"
 name_prefix                      = "cmtr-vwx4iuxh-mod8b"
 archive_type                     = "tar.gz"
 archive_source_dir               = "application"
