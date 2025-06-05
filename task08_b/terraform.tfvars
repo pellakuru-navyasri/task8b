@@ -1,12 +1,8 @@
 location = "southindia"
-
 name_prefix = "cmtr-vwx4iuxh-mod8b"
-
 archive_type        = "tar.gz"
 archive_source_dir  = "application"
 archive_output_path = "new.tar.gz"
-
-#storage
 storage_account_name             = "cmtrvwx4iuxhmod8bsa"
 storage_account_replication_type = "LRS"
 storage_account_tier             = "Standard"
